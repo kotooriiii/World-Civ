@@ -1,0 +1,97 @@
+animations:
+  MyAnimation1:
+    #in MILLISECONDS
+    change-interval: 50
+    texts:
+      - "&d-&3--------------"
+      - "&3-&d-&3-------------"
+      - "&3--&d-&3------------"
+      - "&3---&d-&3-----------"
+      - "&3----&d-&3----------"
+      - "&3-----&d-&3---------"
+      - "&3------&d-&3--------"
+      - "&3-------&d-&3-------"
+      - "&3--------&d-&3------"
+      - "&3---------&d-&3-----"
+      - "&3----------&d-&3----"
+      - "&3-----------&d-&3---"
+      - "&3------------&d-&3--"
+      - "&3-------------&d-&3-"
+      - "&3--------------&d-"
+      - "&3-------------&d-&3-"
+      - "&3------------&d-&3--"
+      - "&3-----------&d-&3---"
+      - "&3----------&d-&3----"
+      - "&3---------&d-&3-----"
+      - "&3--------&d-&3------"
+      - "&3-------&d-&3-------"
+      - "&3------&d-&3--------"
+      - "&3-----&d-&3---------"
+      - "&3----&d-&3----------"
+      - "&3---&d-&3-----------"
+      - "&3--&d-&3------------"
+      - "&3-&d-&3-------------"
+      - "&d-&3--------------"
+  web:
+    change-interval: 200
+    texts:
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&6w&eww.world-civ.com"
+      - "&ew&6w&ew.world-civ.com"
+      - "&eww&6w&e.world-civ.com"
+      - "&ewww&6.&eworld-civ.com"
+      - "&ewww.&6w&eorld-civ.com"
+      - "&ewww.w&6o&erld-civ.com"
+      - "&ewww.wo&6r&eld-civ.com"
+      - "&ewww.wor&6l&ed-civ.com"
+      - "&ewww.worl&6d&e-civ.com"
+      - "&ewww.world&6-&eciv.com"
+      - "&ewww.world-&6c&eiv.com"
+      - "&ewww.world-c&6i&ev.com"
+      - "&ewww.world-ci&6v&e.com"
+      - "&ewww.world-civ&6.&ecom"
+      - "&ewww.world-civ.&6c&eom"
+      - "&ewww.world-civ.c&6o&em"
+      - "&ewww.world-civ.co&6m"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+      - "&ewww.world-civ.com"
+  online:
+    change-interval: 150
+    texts:
+      - "&b"
+  vote:
+    change-interval: 1000
+    texts:
+      - "&5vote.domain.com"
+  Hi:
+    change-interval: 1500
+    texts:
+      - "&6Hello &7%nick%"
+      - "&eGlad to have you!"
+      - "&6Hello &7%nick%"
+  time:
+    change-interval: 500
+    texts:
+      - "&c"
+  ip-ping:
+    change-interval: 5000
+    texts:
+      - "&aPing: &2&n%ping%"
+  versions:
+    change-interval: 1000
+    texts:
+      - "Online players with MC 1.12.x : %version-group:1-12-x%"
+      - "Online players with MC 1.11.x : %version-group:1-11-x"
+      - "Online players with MC 1.10.x : %version-group:1-10-x"
+      - "Online players with MC 1.9.x : %version-group:1-9-x"
+      - "Online players with MC 1.8.x : %version-group:1-8-x"
+      - "Online players with MC 1.7.x : %version-group:1-7-x"

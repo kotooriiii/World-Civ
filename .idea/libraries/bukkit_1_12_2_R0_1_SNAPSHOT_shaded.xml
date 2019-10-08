@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="bukkit-1.12.2-R0.1-SNAPSHOT-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bukkit-1.12.2-R0.1-SNAPSHOT-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/craftbukkit-1.12.2-R0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Essentials-2.x-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MythicMobs-4.3.2-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/PermissionsEx-1.23.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spigot-api-1.12.2-R0.1-SNAPSHOT-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Towny.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/WGRegionEvents.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/worldedit-bukkit-6.1.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/worldguard-6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mcMMO.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/NoteBlockAPI-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/craftbukkit-1.12.2-R0.1-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

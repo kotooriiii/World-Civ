@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="World Civ Demo:jar">
+    <output-path>$PROJECT_DIR$/../Project Server/plugins</output-path>
+    <root id="archive" name="World Civ Demo.jar">
+      <element id="module-output" name="World Civ Demo" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
